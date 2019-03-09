@@ -3,10 +3,9 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## Master
+## 2.1.0
 
-Not released
-
+* ✅ Upgrade to [Trix 1.1.0](https://github.com/basecamp/trix/releases/tag/1.1.0) 🎉
 * 🐛🔨 Add customizable input name for trix-editor in simple form ([#12](https://github.com/kylefox/trix/pull/12)). Thanks [@ptrr](https://github.com/ptrr)!
 
 ## 2.0.0
